@@ -461,7 +461,7 @@
 
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import plotly as px
 
 st.set_page_config(layout="wide")  # Full-width layout
 st.title("Placement Data Analytics Dashboard by Siddartha")
